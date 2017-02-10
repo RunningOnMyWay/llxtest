@@ -1,0 +1,34 @@
+{
+  "name": "llxtest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodejs ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "ejs": "~0.8.5"
+  },
+  "description": "web just for test",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RunningOnMyWay/llxtest.git"
+  },
+  "keywords": [
+    "web",
+    "test",
+    "llx"
+  ],
+  "author": "llx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RunningOnMyWay/llxtest/issues"
+  },
+  "homepage": "https://github.com/RunningOnMyWay/llxtest#readme"
+}
